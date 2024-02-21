@@ -1,0 +1,2 @@
+export const LOGO_URL="https://t3.ftcdn.net/jpg/02/41/30/72/240_F_241307210_MjjaJC3SJy2zJZ6B7bKGMRsKQbdwRSze.jpg";
+export const CMN_RESTRNT_URL="https://media-cdn.tripadvisor.com/media/photo-s/15/ef/7f/90/daryabadi-biryani.jpg";

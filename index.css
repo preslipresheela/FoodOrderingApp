@@ -41,3 +41,17 @@
 .search{
     padding:10px;
 }
+.filter_btn{
+    padding:10px;
+    cursor:pointer;
+}
+.all_btn{
+    padding: 10px;
+    cursor: pointer;
+    margin:20px;
+    
+}
+.btn{
+    display: flex;
+    justify-content: space-between;
+}
